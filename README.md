@@ -2,7 +2,7 @@
 An Arp Spoofer programmed in C#
 
 # Functionality
-Supports arp spoofing attacks where the packets will still be passed on to the router and back to the target so you can view all packets going through
+Supports arp spoofing attacks where the packets will still be passed on to the router and back to the target so you can view all packets going through.\n
 Support denial of service attack where the packets wont be passed to the router meaning the target has no internet connection
 Support finding devices IP and mac addresses on a local network
 
