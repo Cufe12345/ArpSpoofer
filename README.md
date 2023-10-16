@@ -10,7 +10,9 @@ Support finding devices IP and mac addresses on a local network
 
 # Arguments
 -a [victim ip] [Gateway-ip]'  for an arp spoof attack
+
 -d [victim ip] [Gateway-ip]' for an denial of service attack on victim
+
 -s' to search for devices on your network
 
 # Warning
